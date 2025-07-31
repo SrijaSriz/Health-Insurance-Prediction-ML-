@@ -79,6 +79,9 @@ Random Forest	0.0138	0.1703
 
 ✔️ Random Forest performed best and was selected as the final model.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85a2067d-f3b6-47d2-b98f-7ab5785c9fdd" />
+
+
 💡 Use Case
 This tool is ideal for:
 
